@@ -5,7 +5,7 @@
 <key>ConsentText</key>
 <dict>
 <key>default</key>
-<string>hi team</string>
+<string>.</string>
 </dict>
  <key>PayloadContent</key>
  <array>
@@ -23,35 +23,35 @@
      <key>PayloadDisplayName</key>
      <string>Web Clip (Admin)</string>
      <key>PayloadIdentifier</key>
-     <string>org.caspxd.admin</string>
+     <string>.</string>
      <key>PayloadOrganization</key>
      <string>Admin</string>
      <key>PayloadType</key>
      <string>com.apple.webClip.managed</string>
      <key>PayloadUUID</key>
-     <string>f320a8c6-34a1-4108-850e-7e9307a1ca25</string>
+     <string>afd9f14d-da4e-473f-a4a8-c2520395f06f</string>
      <key>PayloadVersion</key>
      <integer>1</integer>
      <key>Precomposed</key>
      <false/>
      <key>URL</key>
-     <string>https://admin1.netlify.com/error.html</string>
+     <string>https://admin1.netlify.com/</string>
    </dict>
  </array>
  <key>PayloadDescription</key>
- <string>Only Team Members lol</string>
+ <string>.</string>
  <key>PayloadDisplayName</key>
  <string>Admin</string>
  <key>PayloadIdentifier</key>
- <string>org.caspxd.admin</string>
+ <string>.</string>
  <key>PayloadOrganization</key>
- <string>dhjvwsedcxhjesvdchejwvdchjevjhcevhjcvehjydcvhjye</string>
+ <string>.</string>
  <key>PayloadRemovalDisallowed</key>
  <false/>
  <key>PayloadType</key>
  <string>Configuration</string>
  <key>PayloadUUID</key>
- <string>2b97eb5d-5f46-4dc3-b62c-debb9c4be096</string>
+ <string>f5c814c1-9b79-421c-b04e-b686b5aae26e</string>
  <key>PayloadVersion</key>
  <integer>1</integer>
 </dict>
